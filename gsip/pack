@@ -1,0 +1,1 @@
+tar cvzf glassip.tar.gz /opt/gsip /opt/change_ivrd /etc/init/fs_* /etc/init/icti-ivrd*
